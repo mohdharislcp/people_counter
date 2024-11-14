@@ -1,4 +1,5 @@
 
+// My first JavaScript code
 // document.getElementById("count-el").innerText = 115;
 
 // listen for clicks on the increment button
