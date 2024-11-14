@@ -32,7 +32,7 @@ function save() {
 }
 
 
-let myname = "People";
+let myname = "Student";
 let greeting = " Good day, " + myname + "!";
 
 welcomeEl.innerHTML = greeting;
