@@ -29,8 +29,8 @@ function save() {
 }
 
 
-let myname = "Haris";
-let greeting = " Good morning, " + myname + "!";
+let myname = "People";
+let greeting = " Good day, " + myname + "!";
 
 welcomeEl.innerHTML = greeting;
 
