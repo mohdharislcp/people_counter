@@ -26,6 +26,8 @@ function save() {
     saveEl.innerHTML = logMsg;
     count = 0;
     countEl.innerHTML = count;
+
+
 }
 
 
